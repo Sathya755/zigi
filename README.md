@@ -1,5 +1,5 @@
 ![zigi](https://user-images.githubusercontent.com/117615/69496216-051d1580-0ed0-11ea-9ea5-cf0d9153482c.png)
-## Installing zigi
+## Installing zigi.
 
 Make sure you have git installed on your Mainframe.
 In order to install git, head on over to https://www.rocketsoftware.com/ and create an account.
